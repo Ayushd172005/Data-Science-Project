@@ -1,1 +1,1 @@
-# Data-Science-Project
+Just the college project
